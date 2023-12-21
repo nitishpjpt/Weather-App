@@ -1,6 +1,6 @@
 # Weather-App
 
-Live Preview of Website > https://nitishpjpt.github.io/weatherapp/
+Live Preview of Website > https://nitishpjpt.github.io/Weather-App/
 
 
 <h2 align="left">Built With...</h2>
